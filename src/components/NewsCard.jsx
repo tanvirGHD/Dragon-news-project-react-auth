@@ -1,20 +1,4 @@
 
-
-// const NewsCard = ({news}) => {
-//     console.log(news);
-    
-//     return (
-//         <div>
-//             <h3>{news.title}</h3>
-//         </div>
-//     );
-// };
-
-// export default NewsCard;
-
-
-
-
 import React from 'react';
 import { FaRegBookmark, FaShareAlt } from 'react-icons/fa';
 
